@@ -130,4 +130,12 @@ public class User {
 		}
 		myVehicle = newVehicle;
 	}
+
+	public Vehicle getMyVehicle() {
+		return myVehicle;
+	}
+
+	public void setMyVehicle(Vehicle myVehicle) {
+		this.myVehicle = myVehicle;
+	}
 }

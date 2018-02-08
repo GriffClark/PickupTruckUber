@@ -1,4 +1,4 @@
-
+//TODO do we want 2d and 3d size or just 3d size?
 public class Vehicle {
 	protected String name, type;
 	public String getType() {
